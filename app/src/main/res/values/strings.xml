@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Skip!</string>
+    <string name="journal_title">Journal</string>
+    <string name="inbox_title">Send Message</string>
+    <string name="action_settings">Settings</string>
+    <string name="activity">Activity</string>
+    <string name="start">Start!</string>
+    <string name="completed">Completed</string>
+    <string name="date">Date</string>
+    <string name="complete_lessons">Complete lessons and get rewards!</string>
+    <string name="lesson_1">Lesson 1:</string>
+    <string name="activities_title">Activities</string>
+    <string name="warm_up">Warm Up</string>
+    <string name="crawl">Crawl</string>
+    <string name="reach">Reach</string>
+    <string name="one_min">1 min</string>
+    <string name="five_min">5 min</string>
+    <string name="rewards_title">Rewards</string>
+    <string name="level_one">Level 1</string>
+    <string name="level_two">Level 2</string>
+    <string name="level_three">Level 3</string>
+    <string name="level_four">Level 4</string>
+</resources>
